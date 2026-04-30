@@ -1,5 +1,3 @@
-# Github-gist
-
 # Polkadot Score
 
 Counts the polkadots on Angelica's ASCII dress and spits out a score.
